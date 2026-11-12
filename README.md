@@ -13,3 +13,6 @@ Este projeto consiste no desenvolvimento de uma aplicação web interativa utili
 - `requirements.txt`: Dependências do projeto.
 - `notebooks/EDA.ipynb`: Jupyter Notebook contendo a Análise Exploratória de Dados inicial.
 - `.streamlit/config.toml`: Configurações de tema da aplicação.
+
+## Hospedagem / Deploy
+A aplicação foi desenvolvida e testada localmente com Streamlit. Conforme orientação da tutoria, o deploy no Render foi dispensado devido a restrições de verificação de cartão na plataforma.
